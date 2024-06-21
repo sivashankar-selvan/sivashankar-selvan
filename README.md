@@ -7,7 +7,7 @@ Software Engineer @ Intellect Design Arena
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /><!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev)--> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivashankarselvan/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivashankarselvan/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am an AWS Certified Cloud Practitioner.
 
@@ -22,8 +22,11 @@ Software Engineer @ Intellect Design Arena
 ### 💻 Workspace Spec
 <!--<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> -->
 
-![Sivashankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASHANKAR07)](https://github.com/SIVASHANKAR07/github-readme-stats)
+![Sivashankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASHANKAR07&theme=dark&) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR07&layout=compact&theme=dark)
+:---:|:---:
 
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/SIVASHANKARcc?theme=dark&font=Spline%20Sans%20Mono&ext=contest))](https://leetcode.com/u/SIVASHANKARcc/)
 
-[![Sivashankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR07&bg_color=000000&color=15b730&line=d91212&point=e6f604&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SIVASHANKARcc?theme=dark&font=Spline%20Sans%20Mono&ext=contest)
+
+![Sivashankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR07&bg_color=000000&color=15b730&line=d91212&point=e6f604&area=true&hide_border=true)
