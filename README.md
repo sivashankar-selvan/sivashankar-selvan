@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sivashankar-selvan)
 
-[Visit my portfolio website](https://sivashankar-selvan.github.io/sivashankar-s-portfolio/)
+[Visit my portfolio website](https://sivashankar-selvan.github.io/portfolio/)
 
 
 Software Engineer @ Intellect Design Arena
